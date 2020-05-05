@@ -31,4 +31,4 @@ etc.
 If you need this dataset, you can contact us:
 - Joan Santoso : joan@stts.edu
 - Miranda Laurencia : miranda1@mhs.stts.edu
-- Ananta : anantatio.01@gmail.com
+- Ananta Tio : anantatio.01@gmail.com
