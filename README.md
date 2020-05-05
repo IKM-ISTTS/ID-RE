@@ -25,10 +25,10 @@
 4. <None>	Fransiskus Arnold Purba	meninggal pada	1 Mei 2001	.	Fransiskus Arnold Purba meninggal pada 1 Mei 2001 .	https://id.wikipedia.org/wiki?curid=1133324	Death-Date	/person/date/Death-Date	e2,e1
 5. <None>	Ging Ginanjar	meninggal di	Tangerang Selatan	adalah seorang jurnalis asal Indonesia yang berperan dalam mengamankan kebebasan pers selama masa transisi Indonesia pasca - Soeharto .	Ging Ginanjar meninggal di Tangerang Selatan adalah seorang jurnalis asal Indonesia yang berperan dalam mengamankan kebebasan pers selama masa transisi Indonesia pasca - Soeharto .	https://id.wikipedia.org/wiki?curid=2751840	Death-Place	/person/place/Death-Place	e2,e1
 6. <None>	Anthony Oliver Scott	adalah seorang	jurnalis	dan kritikus film Amerika .	Anthony Oliver Scott adalah seorang jurnalis dan kritikus film Amerika .	https://id.wikipedia.org/wiki?curid=2380868	Occupation	/person/job/Occupation	e2,e1
-7. etc.
+etc.
 
 #### Contact us
 If you need this dataset, you can contact us:
 - Joan Santoso : joan@stts.edu
 - Miranda Laurencia : miranda1@mhs.stts.edu
-- Ananta : 
+- Ananta : anantatio.01@gmail.com
